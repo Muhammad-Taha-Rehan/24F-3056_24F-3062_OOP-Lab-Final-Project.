@@ -11,11 +11,13 @@ leadership.
 banking.
 events.
 resource management.
+Module 2: Multiplayer & Diplomacy Engine – handles player-to-player interactions,
+alliances, diplomacy, trade systems, and real-time communication.
 
 Project Division: 
 
-Abdul Rehman(24f-3056) : majorly worked on socialclass, population, resources, leadership, gamestate. 
-Muhammad Taha Rehan(24f-3062) : majorly worked on army, bank, events, economy, main implementation
+Abdul Rehman(24f-3056) : majorly worked on bank, resources, leadership, Economy, Alliances , Trade, Conflict and Betrayal 
+Muhammad Taha Rehan(24f-3062) : majorly worked on Social structure, population, Army, Events, Map and Movement, Communication System
 
 OOP Concepts Used:
 
